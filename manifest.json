@@ -1,6 +1,6 @@
 {
-    "name": "my_site_github",
-    "short_name": "my_site_github",
+    "name": "leurdev",
+    "short_name": "leurdev",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
